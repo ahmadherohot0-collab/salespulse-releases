@@ -1,6 +1,6 @@
 {
-  "version": "2.3.7",
-  "releaseNotes": "إضافة ميزة فلترة الفواتير حسب التاريخ (اليوم، الأسبوع، الشهر) من شاشة عرض الفواتير.",
-  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.7/salespulse.zip",
-  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.7/salespulse.apk"
+  "version": "2.3.8",
+  "releaseNotes": "تحديثات أمنية وإصلاح نظام التراخيص والتفعيل التلقائي.",
+  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.8/salespulse.zip",
+  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.8/salespulse.apk"
 }
