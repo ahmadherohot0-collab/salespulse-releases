@@ -1,6 +1,6 @@
 {
-  "version": "2.3.8",
-  "releaseNotes": "تحديثات أمنية وإصلاح نظام التراخيص والتفعيل التلقائي.",
-  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.8/salespulse.zip",
-  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.8/salespulse.apk"
+  "version": "2.3.10",
+  "releaseNotes": "⚠️ تنبيه أمني إجباري هام جداً: يرجى تنزيل وتثبيت هذا التحديث الآن فوراً لضمان استمرارية عمل قاعدة بيانات المبيعات وتجنب فقدان البيانات أو توقف البرنامج.",
+  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.10/salespulse.zip",
+  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.10/salespulse.apk"
 }
