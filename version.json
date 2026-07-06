@@ -1,6 +1,6 @@
 {
-  "version": "2.3.10",
-  "releaseNotes": "⚠️ تنبيه أمني إجباري هام جداً: يرجى تنزيل وتثبيت هذا التحديث الآن فوراً لضمان استمرارية عمل قاعدة بيانات المبيعات وتجنب فقدان البيانات أو توقف البرنامج.",
-  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.10/salespulse.zip",
-  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.10/salespulse.apk"
+  "version": "2.3.11",
+  "releaseNotes": "إصلاح مشكلة تعذر فتح واتساب عند مشاركة الفواتير وتنبيهات أمان هامة جداً.",
+  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.11/salespulse.zip",
+  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.11/salespulse.apk"
 }
