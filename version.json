@@ -1,6 +1,6 @@
 {
-  "version": "2.3.12",
+  "version": "2.3.13",
   "releaseNotes": "إصلاح مشكلة الحروف العربية وعلامات الاستفهام في الطباعة بدون اتصال بالإنترنت، وجعل التحديث اختيارياً مع شريط إشعار أعلى الشاشة.",
-  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.12/salespulse.zip",
-  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.12/salespulse.apk"
+  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.13/salespulse.zip",
+  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.13/salespulse.apk"
 }
