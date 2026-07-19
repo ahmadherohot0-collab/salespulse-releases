@@ -1,6 +1,6 @@
 {
-  "version": "2.3.13",
-  "releaseNotes": "إصلاح مشكلة الحروف العربية وعلامات الاستفهام في الطباعة بدون اتصال بالإنترنت، وجعل التحديث اختيارياً مع شريط إشعار أعلى الشاشة.",
-  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.13/salespulse.zip",
-  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.13/salespulse.apk"
+  "version": "2.3.14",
+  "releaseNotes": "إصلاح تجمد طباعة التقرير اليومي، وضبط حسابات الأرباح والمدفوعات بلوحة التحكم، وإصلاح خطأ مديونية العملاء المزدوجة عند تعديل الفواتير.",
+  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.14/salespulse.zip",
+  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.14/salespulse.apk"
 }
