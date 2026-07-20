@@ -1,6 +1,6 @@
 {
-  "version": "2.3.14",
-  "releaseNotes": "إصلاح تجمد طباعة التقرير اليومي، وضبط حسابات الأرباح والمدفوعات بلوحة التحكم، وإصلاح خطأ مديونية العملاء المزدوجة عند تعديل الفواتير.",
-  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.14/salespulse.zip",
-  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.14/salespulse.apk"
+  "version": "2.3.15",
+  "releaseNotes": "تحديث واجهة سلة المشتريات وإظهار زر شراء بدلاً من بيع، وفصل حسابات المشتريات بالكامل عن تقرير الأكثر مبيعاً لتفادي تكرار الأرقام.",
+  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.15/salespulse.zip",
+  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.15/salespulse.apk"
 }
