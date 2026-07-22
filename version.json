@@ -1,6 +1,6 @@
 {
-  "version": "2.3.15",
-  "releaseNotes": "تحديث واجهة سلة المشتريات وإظهار زر شراء بدلاً من بيع، وفصل حسابات المشتريات بالكامل عن تقرير الأكثر مبيعاً لتفادي تكرار الأرقام.",
-  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.15/salespulse.zip",
-  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.15/salespulse.apk"
+  "version": "2.3.16",
+  "releaseNotes": "إضافة ميزة صندوق النقدية (الخزينة) وسجل حركة الأموال والإيداع والسحب اليدوي، وتحسين تباين ووضوح كروت المنتجات ونقطة البيع، وإضافة ميزة اختيار صورة المنتج من الكاميرا المباشرة أو الاستوديو.",
+  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.16/salespulse.zip",
+  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.16/salespulse.apk"
 }
