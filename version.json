@@ -1,6 +1,6 @@
 {
-  "version": "2.3.20",
-  "releaseNotes": "حل مشكلة مزامنة واستعادة ملفات البيانات نهائياً وتفادي الخطأ، وإعادة رفع واستكمال تحديث الإرسال الجماعي المباشر عبر الواتساب لجميع المستخدمين.",
-  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.20/salespulse.zip",
-  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.20/salespulse.apk"
+  "version": "2.3.21",
+  "releaseNotes": "تحسين دقة وجودة الطباعة الحرارية بنسبة 100%، وتفعيل اللون الأسود الصافي والخطوط العريضة لطباعة واضحة وحادة على جميع أنواع الطابعات والوصولات.",
+  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.21/salespulse.zip",
+  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.21/salespulse.apk"
 }
