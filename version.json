@@ -1,6 +1,1 @@
-{
-  "version": "2.3.21",
-  "releaseNotes": "تحسين دقة وجودة الطباعة الحرارية بنسبة 100%، وتفعيل اللون الأسود الصافي والخطوط العريضة لطباعة واضحة وحادة على جميع أنواع الطابعات والوصولات.",
-  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.21/salespulse.zip",
-  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.21/salespulse.apk"
-}
+{"version":"2.3.22","releaseNotes":"إعادة تصميم وصل الطباعة الحرارية ليكون مدمجاً وأنيقاً بنسبة 100% مثل الطابعات العالمية، حل مشكلة تباعد الأحرف وانفصال الـ التعريف، وتوضيح اسم العميل ونوع الفاتورة نقداً بدقة عالية.","downloadUrlWindows":"https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.22/salespulse.zip","downloadUrlAndroid":"https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.22/salespulse.apk"}
