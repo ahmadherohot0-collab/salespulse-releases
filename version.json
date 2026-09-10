@@ -1,1 +1,6 @@
-{"version":"2.3.22","releaseNotes":"إعادة تصميم وصل الطباعة الحرارية ليكون مدمجاً وأنيقاً بنسبة 100% مثل الطابعات العالمية، حل مشكلة تباعد الأحرف وانفصال الـ التعريف، وتوضيح اسم العميل ونوع الفاتورة نقداً بدقة عالية.","downloadUrlWindows":"https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.22/salespulse.zip","downloadUrlAndroid":"https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.22/salespulse.apk"}
+{
+  "version": "2.3.23",
+  "releaseNotes": "ميزة الإرسال التلقائي المباشر للرسائل الجماعية عبر واتساب دون فتح متصفحات أو نوافذ، مع فحص الأرقام وتجاوز أي رقم غير مشترك بواتساب تلقائياً، وربط واتساب برمز الاستجابة السريعة (QR).",
+  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.23/salespulse.zip",
+  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.23/salespulse.apk"
+}
