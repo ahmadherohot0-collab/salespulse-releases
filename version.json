@@ -1,6 +1,6 @@
 {
-  "version": "2.3.23",
-  "releaseNotes": "ميزة الإرسال التلقائي المباشر للرسائل الجماعية عبر واتساب دون فتح متصفحات أو نوافذ، مع فحص الأرقام وتجاوز أي رقم غير مشترك بواتساب تلقائياً، وربط واتساب برمز الاستجابة السريعة (QR).",
-  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.23/salespulse.zip",
-  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.23/salespulse.apk"
+  "version": "2.3.24",
+  "releaseNotes": "حل مشكلة نقل وتفعيل الاشتراكات على أجهزة ويندوز ودعم معرّفات الأجهزة المكوّنة من شرطات، بالإضافة إلى ميزة إرسال رسائل واتساب الجماعية المباشرة في الخلفية.",
+  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.24/salespulse.zip",
+  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.24/salespulse.apk"
 }
