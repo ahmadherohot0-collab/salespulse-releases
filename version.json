@@ -1,6 +1,6 @@
 {
-  "version": "2.3.24",
-  "releaseNotes": "حل مشكلة نقل وتفعيل الاشتراكات على أجهزة ويندوز ودعم معرّفات الأجهزة المكوّنة من شرطات، بالإضافة إلى ميزة إرسال رسائل واتساب الجماعية المباشرة في الخلفية.",
-  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.24/salespulse.zip",
-  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.24/salespulse.apk"
+  "version": "2.3.25",
+  "releaseNotes": "ميزة تحديد الصنف في المنتج السريع بأمثلة وخيارات ذكية مستخرجة مباشرة من أصناف ومواد المتجر، مع كشف تحليلي شامل لأرباح ومبيعات كل صنف.",
+  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.25/salespulse.zip",
+  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.25/salespulse.apk"
 }
