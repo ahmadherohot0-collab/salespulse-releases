@@ -1,6 +1,6 @@
 {
-  "version": "2.3.25",
-  "releaseNotes": "ميزة تحديد الصنف في المنتج السريع بأمثلة وخيارات ذكية مستخرجة مباشرة من أصناف ومواد المتجر، مع كشف تحليلي شامل لأرباح ومبيعات كل صنف.",
-  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.25/salespulse.zip",
-  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.25/salespulse.apk"
+  "version": "2.3.26",
+  "releaseNotes": "كتالوج مرئي لتصفح واختيار المنتجات بالصور في الهاتف، فتح واتساب الكمبيوتر مباشرة بدون متصفح، دعم واتساب الأعمال في الهاتف، وتحسين سرعة ومزامنة المتجر الإلكتروني بالكامل.",
+  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.26/salespulse.zip",
+  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.26/salespulse.apk"
 }
