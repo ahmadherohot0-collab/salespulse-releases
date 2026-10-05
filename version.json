@@ -1,6 +1,7 @@
 {
   "version": "2.3.26",
   "releaseNotes": "كتالوج مرئي لتصفح واختيار المنتجات بالصور في الهاتف، فتح واتساب الكمبيوتر مباشرة بدون متصفح، دعم واتساب الأعمال في الهاتف، وتحسين سرعة ومزامنة المتجر الإلكتروني بالكامل.",
-  "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.26/salespulse.zip",
-  "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.26/salespulse.apk"
+  "downloadUrlWindows": "https://salespulse-shop.netlify.app/download/windows",
+  "downloadUrlAndroid": "https://salespulse-shop.netlify.app/download/android",
+  "downloadPage": "https://salespulse-shop.netlify.app/download"
 }
