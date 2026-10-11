@@ -1,6 +1,9 @@
 {
-    "url_windows":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.29/salespulse.zip",
-    "url_android":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.29/salespulse.apk",
     "version":  "2.3.29",
-    "release_notes":  "تحديث الذكاء الاصطناعي الشامل (v2.3.29): كتابة وصف احترافي جذاب للمنتجات بالذكاء الاصطناعي بـ 5 أساليب مختلفة، وتوليد إعلانات السوشيال ميديا، وإضافة المساعد الذكي للتسوق داخل المتجر الإلكتروني."
+    "release_notes":  "تحديث الذكاء الاصطناعي الشامل (v2.3.29): كتابة وصف احترافي جذاب للمنتجات بالذكاء الاصطناعي بـ 5 أساليب مختلفة، وتوليد إعلانات السوشيال ميديا، وإضافة المساعد الذكي للتسوق داخل المتجر الإلكتروني.",
+    "releaseNotes":  "تحديث الذكاء الاصطناعي الشامل (v2.3.29): كتابة وصف احترافي جذاب للمنتجات بالذكاء الاصطناعي بـ 5 أساليب مختلفة، وتوليد إعلانات السوشيال ميديا، وإضافة المساعد الذكي للتسوق داخل المتجر الإلكتروني.",
+    "url_android":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.29/salespulse.apk",
+    "downloadUrlAndroid":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.29/salespulse.apk",
+    "url_windows":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.29/salespulse.zip",
+    "downloadUrlWindows":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.29/salespulse.zip"
 }
