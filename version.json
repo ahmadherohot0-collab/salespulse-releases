@@ -1,7 +1,6 @@
 {
-  "version": "2.3.27",
-  "releaseNotes": "مشاركة كشف الحساب والفواتير كصورة واحدة متصلة عالية الدقة في الرسائل (إنستغرام دايركت، مدير أعمال ميتا، واتساب، ماسنجر، وتلغرام) على الهاتف والكمبيوتر.",
-  "downloadUrlWindows": "https://salespulse-shop.netlify.app/download/windows",
-  "downloadUrlAndroid": "https://salespulse-shop.netlify.app/download/android",
-  "downloadPage": "https://salespulse-shop.netlify.app/download"
+    "url_windows":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.28/salespulse.zip",
+    "url_android":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.28/salespulse.apk",
+    "version":  "2.3.28",
+    "release_notes":  "تحديث أمني شامل (v2.3.28): حماية المتجر الإلكتروني والطلبات بالتوقيع الرقمي المشفر، حماية التطبيق من التفكيك (--obfuscate)، وتشفير رموز الدخول."
 }
