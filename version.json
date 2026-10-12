@@ -1,9 +1,10 @@
 {
-    "version":  "2.3.30",
-    "release_notes":  "تحديث الذكاء الاصطناعي للعطور والمنتجات (v2.3.30): كتابة وصف مخصص لكل عطر حسب مكوناته الحقيقية (الافتتاحية، قلب العطر، القاعدة العطرية) بالاستعانة بقواعد بيانات الويب وتحليل صورة العطر.",
-    "releaseNotes":  "تحديث الذكاء الاصطناعي للعطور والمنتجات (v2.3.30): كتابة وصف مخصص لكل عطر حسب مكوناته الحقيقية (الافتتاحية، قلب العطر، القاعدة العطرية) بالاستعانة بقواعد بيانات الويب وتحليل صورة العطر.",
-    "url_android":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.30/salespulse.apk",
-    "downloadUrlAndroid":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.30/salespulse.apk",
-    "url_windows":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.30/salespulse.zip",
-    "downloadUrlWindows":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.30/salespulse.zip"
+    "buildNumber":  49,
+    "mandatory":  false,
+    "releaseNotes":  "تطوير الذكاء الاصطناعي الاحترافي: تحليل الصور والبحث في جوجل لكتابة وصف دقيق ومخصص لكل عطر ومنتج عناية بالبشرة والشعر، ومستشار ذكي للزبائن في الموقع يرشح الغسولات والعطور حسب نوع البشرة أو النوتات والميزانية مع عرض الوصف الكامل.",
+    "downloadUrlAndroid":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.31/salespulse.apk",
+    "url_android":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.31/salespulse.apk",
+    "version":  "2.3.31",
+    "downloadUrlWindows":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.31/salespulse.zip",
+    "url_windows":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.31/salespulse.zip"
 }
