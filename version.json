@@ -1,9 +1,9 @@
 {
-    "version":  "2.3.29",
-    "release_notes":  "تحديث الذكاء الاصطناعي الشامل (v2.3.29): كتابة وصف احترافي جذاب للمنتجات بالذكاء الاصطناعي بـ 5 أساليب مختلفة، وتوليد إعلانات السوشيال ميديا، وإضافة المساعد الذكي للتسوق داخل المتجر الإلكتروني.",
-    "releaseNotes":  "تحديث الذكاء الاصطناعي الشامل (v2.3.29): كتابة وصف احترافي جذاب للمنتجات بالذكاء الاصطناعي بـ 5 أساليب مختلفة، وتوليد إعلانات السوشيال ميديا، وإضافة المساعد الذكي للتسوق داخل المتجر الإلكتروني.",
-    "url_android":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.29/salespulse.apk",
-    "downloadUrlAndroid":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.29/salespulse.apk",
-    "url_windows":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.29/salespulse.zip",
-    "downloadUrlWindows":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.29/salespulse.zip"
+    "version":  "2.3.30",
+    "release_notes":  "تحديث الذكاء الاصطناعي للعطور والمنتجات (v2.3.30): كتابة وصف مخصص لكل عطر حسب مكوناته الحقيقية (الافتتاحية، قلب العطر، القاعدة العطرية) بالاستعانة بقواعد بيانات الويب وتحليل صورة العطر.",
+    "releaseNotes":  "تحديث الذكاء الاصطناعي للعطور والمنتجات (v2.3.30): كتابة وصف مخصص لكل عطر حسب مكوناته الحقيقية (الافتتاحية، قلب العطر، القاعدة العطرية) بالاستعانة بقواعد بيانات الويب وتحليل صورة العطر.",
+    "url_android":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.30/salespulse.apk",
+    "downloadUrlAndroid":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.30/salespulse.apk",
+    "url_windows":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.30/salespulse.zip",
+    "downloadUrlWindows":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.30/salespulse.zip"
 }
