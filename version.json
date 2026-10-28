@@ -1,10 +1,10 @@
 {
-    "buildNumber":  49,
-    "mandatory":  false,
-    "releaseNotes":  "تطوير الذكاء الاصطناعي الاحترافي: تحليل الصور والبحث في جوجل لكتابة وصف دقيق ومخصص لكل عطر ومنتج عناية بالبشرة والشعر، ومستشار ذكي للزبائن في الموقع يرشح الغسولات والعطور حسب نوع البشرة أو النوتات والميزانية مع عرض الوصف الكامل.",
-    "downloadUrlAndroid":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.31/salespulse.apk",
-    "url_android":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.31/salespulse.apk",
-    "version":  "2.3.31",
-    "downloadUrlWindows":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.31/salespulse.zip",
-    "url_windows":  "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.31/salespulse.zip"
+    "buildNumber": 50,
+    "mandatory": true,
+    "releaseNotes": "إصلاح شامل لمشاكل تسجيل الدخول وعدم الاستجابة، ودعم الأرقام العربية، وحل مشكلة تحديث البرنامج التلقائي على الويندوز وفك الضغط، مع إضافة زر التحديث المباشر وفترة السماح الطارئة عند شاشة الدخول والتفعيل، وتحسين استقرار وسرعة تشغيل النظام.",
+    "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.32/salespulse.apk",
+    "url_android": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.32/salespulse.apk",
+    "version": "2.3.32",
+    "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.32/salespulse.zip",
+    "url_windows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.32/salespulse.zip"
 }
