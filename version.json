@@ -1,10 +1,11 @@
 {
-    "buildNumber": 50,
-    "mandatory": true,
-    "releaseNotes": "إصلاح شامل لمشاكل تسجيل الدخول وعدم الاستجابة، ودعم الأرقام العربية، وحل مشكلة تحديث البرنامج التلقائي على الويندوز وفك الضغط، مع إضافة زر التحديث المباشر وفترة السماح الطارئة عند شاشة الدخول والتفعيل، وتحسين استقرار وسرعة تشغيل النظام.",
-    "downloadUrlAndroid": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.32/salespulse.apk",
-    "url_android": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.32/salespulse.apk",
-    "version": "2.3.32",
-    "downloadUrlWindows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.32/salespulse.zip",
-    "url_windows": "https://github.com/ahmadherohot0-collab/salespulse-releases/releases/download/v2.3.32/salespulse.zip"
+  "version": "2.3.33",
+  "buildNumber": 51,
+  "mandatory": true,
+  "releaseNotes": "حل مشكلة الأوامر الصوتية وتعبئة بيانات المنتج تلقائياً بالصوت، وتوجيه روابط التنزيل عبر الموقع الرسمي لنظام نبض المبيعات لنسختي ويندوز وأندرويد.",
+  "downloadUrlWindows": "https://salespulse-shop.netlify.app/download/windows",
+  "downloadUrlAndroid": "https://salespulse-shop.netlify.app/download/android",
+  "url_windows": "https://salespulse-shop.netlify.app/download/windows",
+  "url_android": "https://salespulse-shop.netlify.app/download/android",
+  "downloadPage": "https://salespulse-shop.netlify.app/download"
 }
