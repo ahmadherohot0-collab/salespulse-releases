@@ -1,8 +1,8 @@
 {
-  "version": "2.3.33",
-  "buildNumber": 51,
+  "version": "2.3.34",
+  "buildNumber": 52,
   "mandatory": true,
-  "releaseNotes": "حل مشكلة الأوامر الصوتية وتعبئة بيانات المنتج تلقائياً بالصوت، وتوجيه روابط التنزيل عبر الموقع الرسمي لنظام نبض المبيعات لنسختي ويندوز وأندرويد.",
+  "releaseNotes": "حل مشكلة الإدخال الصوتي الذكي ورفع دقة التعرف على أسماء المنتجات ومصطلحات التجميل والعطور، ودعم كامل للأرقام واللهجة والأسعار العراقية والحد الأدنى.",
   "downloadUrlWindows": "https://salespulse-shop.netlify.app/download/windows",
   "downloadUrlAndroid": "https://salespulse-shop.netlify.app/download/android",
   "url_windows": "https://salespulse-shop.netlify.app/download/windows",
