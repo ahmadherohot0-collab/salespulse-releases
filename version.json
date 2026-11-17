@@ -1,8 +1,8 @@
 {
-  "version": "2.3.36",
-  "buildNumber": 54,
+  "version": "2.3.37",
+  "buildNumber": 55,
   "mandatory": false,
-  "releaseNotes": "تحديث أمني شامل لنظام نبض المبيعات (SalesPulse): ترقية أمان الدخول وتشفير الرموز عبر خوارزمية PBKDF2، تعزيز حماية المتجر الإلكتروني وإعادة احتساب الأسعار والمخزون سحابياً، إضافة ميزة شريط التوصيل المجاني للزبائن، وتحسين مزامنة الطلبات.",
+  "releaseNotes": "تحديث نظام نبض المبيعات (SalesPulse): دعم رفع وتشغيل فيديو وبنر المتجر سحابياً على دفعات فائقة السرعة، ترقية الأمان وتشفير كلمات المرور PBKDF2، وإضافة ميزة شريط التوصيل المجاني للزبائن.",
   "downloadUrlWindows": "https://salespulse-shop.netlify.app/download/windows",
   "downloadUrlAndroid": "https://salespulse-shop.netlify.app/download/android",
   "url_windows": "https://salespulse-shop.netlify.app/download/windows",
