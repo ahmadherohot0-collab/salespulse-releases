@@ -1,8 +1,8 @@
 {
-  "version": "2.3.34",
-  "buildNumber": 52,
-  "mandatory": true,
-  "releaseNotes": "حل مشكلة الإدخال الصوتي الذكي ورفع دقة التعرف على أسماء المنتجات ومصطلحات التجميل والعطور، ودعم كامل للأرقام واللهجة والأسعار العراقية والحد الأدنى.",
+  "version": "2.3.36",
+  "buildNumber": 54,
+  "mandatory": false,
+  "releaseNotes": "تحديث أمني شامل لنظام نبض المبيعات (SalesPulse): ترقية أمان الدخول وتشفير الرموز عبر خوارزمية PBKDF2، تعزيز حماية المتجر الإلكتروني وإعادة احتساب الأسعار والمخزون سحابياً، إضافة ميزة شريط التوصيل المجاني للزبائن، وتحسين مزامنة الطلبات.",
   "downloadUrlWindows": "https://salespulse-shop.netlify.app/download/windows",
   "downloadUrlAndroid": "https://salespulse-shop.netlify.app/download/android",
   "url_windows": "https://salespulse-shop.netlify.app/download/windows",
