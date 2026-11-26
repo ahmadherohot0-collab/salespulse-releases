@@ -1,8 +1,8 @@
 {
-  "version": "2.3.37",
-  "buildNumber": 55,
+  "version": "2.3.38",
+  "buildNumber": 56,
   "mandatory": false,
-  "releaseNotes": "تحديث نظام نبض المبيعات (SalesPulse): دعم رفع وتشغيل فيديو وبنر المتجر سحابياً على دفعات فائقة السرعة، ترقية الأمان وتشفير كلمات المرور PBKDF2، وإضافة ميزة شريط التوصيل المجاني للزبائن.",
+  "releaseNotes": "تحديث نظام نبض المبيعات (SalesPulse v2.3.38): عرض 5 منتجات بالصف افتراضياً مع إمكانية اختيار الكثافة، إصلاح سلايدر الأقسام بالسحب وعجلة الماوس، مقبض سحب لتكبير وتصغير الفاتورة والقائمة مع زر الطي الذكي، تسريع معالجة الصور والتمرير، وقفل منع تكرار فتح البرنامج.",
   "downloadUrlWindows": "https://salespulse-shop.netlify.app/download/windows",
   "downloadUrlAndroid": "https://salespulse-shop.netlify.app/download/android",
   "url_windows": "https://salespulse-shop.netlify.app/download/windows",
