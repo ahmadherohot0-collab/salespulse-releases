@@ -1,8 +1,8 @@
 {
-  "version": "2.3.38",
-  "buildNumber": 56,
+  "version": "2.3.39",
+  "buildNumber": 57,
   "mandatory": false,
-  "releaseNotes": "تحديث نظام نبض المبيعات (SalesPulse v2.3.38): عرض 5 منتجات بالصف افتراضياً مع إمكانية اختيار الكثافة، إصلاح سلايدر الأقسام بالسحب وعجلة الماوس، مقبض سحب لتكبير وتصغير الفاتورة والقائمة مع زر الطي الذكي، تسريع معالجة الصور والتمرير، وقفل منع تكرار فتح البرنامج.",
+  "releaseNotes": "تحديث فوري وسرعة فائقة في البيع (SalesPulse v2.3.39): القضاء النهائي على تعليق وتجمد البرنامج عند الضغط على بيع أو بيع وطباعة، تحسين سرعة حفظ الفواتير، وفصل المزامنة السحابية لتتم في الخلفية خلال أجزاء من الثانية دون أي تأثير على واجهة البيع.",
   "downloadUrlWindows": "https://salespulse-shop.netlify.app/download/windows",
   "downloadUrlAndroid": "https://salespulse-shop.netlify.app/download/android",
   "url_windows": "https://salespulse-shop.netlify.app/download/windows",
